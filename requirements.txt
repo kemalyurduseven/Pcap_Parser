@@ -1,0 +1,4 @@
+nest_asyncio
+pyshark
+pandas
+numpy
